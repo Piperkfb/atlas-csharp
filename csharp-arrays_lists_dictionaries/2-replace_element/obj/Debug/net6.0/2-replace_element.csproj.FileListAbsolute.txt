@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/net6.0/2-replace_element
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/net6.0/2-replace_element.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/net6.0/2-replace_element.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/net6.0/2-replace_element.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/net6.0/ref/2-replace_element.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/net6.0/2-replace_element.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net6.0/2-replace_element.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net6.0/2-replace_element.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net6.0/2-replace_element.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net6.0/2-replace_element.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net6.0/2-replace_element.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net6.0/2-replace_element.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net6.0/ref/2-replace_element.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net6.0/2-replace_element.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net6.0/2-replace_element.genruntimeconfig.cache

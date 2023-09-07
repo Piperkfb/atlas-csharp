@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net6.0/5-max_integer
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net6.0/5-max_integer.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net6.0/5-max_integer.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net6.0/5-max_integer.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net6.0/ref/5-max_integer.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net6.0/5-max_integer.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net6.0/5-max_integer.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net6.0/5-max_integer.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net6.0/5-max_integer.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net6.0/5-max_integer.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net6.0/5-max_integer.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net6.0/5-max_integer.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net6.0/ref/5-max_integer.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net6.0/5-max_integer.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net6.0/5-max_integer.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/13-best_score/bin/Debug/net6.0/13-best_score
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/13-best_score/bin/Debug/net6.0/13-best_score.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/13-best_score/bin/Debug/net6.0/13-best_score.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/13-best_score/bin/Debug/net6.0/13-best_score.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/13-best_score/bin/Debug/net6.0/ref/13-best_score.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/13-best_score/bin/Debug/net6.0/13-best_score.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net6.0/13-best_score.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net6.0/13-best_score.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net6.0/13-best_score.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net6.0/13-best_score.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net6.0/13-best_score.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net6.0/13-best_score.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net6.0/ref/13-best_score.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net6.0/13-best_score.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net6.0/13-best_score.genruntimeconfig.cache
