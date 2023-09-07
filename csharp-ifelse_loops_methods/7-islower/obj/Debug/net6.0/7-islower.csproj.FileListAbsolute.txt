@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/7-islower/bin/Debug/net6.0/7-islower
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/7-islower/bin/Debug/net6.0/7-islower.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/7-islower/bin/Debug/net6.0/7-islower.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/7-islower/bin/Debug/net6.0/7-islower.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/7-islower/bin/Debug/net6.0/ref/7-islower.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/7-islower/bin/Debug/net6.0/7-islower.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/7-islower/obj/Debug/net6.0/7-islower.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/7-islower/obj/Debug/net6.0/7-islower.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/7-islower/obj/Debug/net6.0/7-islower.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/7-islower/obj/Debug/net6.0/7-islower.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/7-islower/obj/Debug/net6.0/7-islower.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/7-islower/obj/Debug/net6.0/7-islower.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/7-islower/obj/Debug/net6.0/ref/7-islower.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/7-islower/obj/Debug/net6.0/7-islower.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/7-islower/obj/Debug/net6.0/7-islower.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/netcoreapp2.1/0-positive_or_negative.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/netcoreapp2.1/0-positive_or_negative.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/netcoreapp2.1/0-positive_or_negative.runtimeconfig.dev.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/netcoreapp2.1/0-positive_or_negative.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/netcoreapp2.1/0-positive_or_negative.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.genruntimeconfig.cache
