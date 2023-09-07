@@ -1,21 +1,17 @@
 ﻿﻿﻿using System;
 using System.Collections.Generic;
 
+
 class List
 {
     public static int Sum(List<int> myList)
     {
-        var newList = new List<int>();
-        var sum = 0;
-
-        foreach (var numero in myList)
+        HashSet<int> set = new HashSet<int>(myList);
+        int num = 0;
+        foreach (int i in set)
         {
-            if (!newList.Contains(numero))
-                newList.Add(numero);
+            num = num + i;
         }
-
-        foreach (var numero in newList)
-                sum += numero;
-        return (sum);
+        return (num);
     }
 }
