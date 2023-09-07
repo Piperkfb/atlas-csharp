@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/3-writeline/bin/Debug/net6.0/3-writeline
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/3-writeline/bin/Debug/net6.0/3-writeline.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/3-writeline/bin/Debug/net6.0/3-writeline.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/3-writeline/bin/Debug/net6.0/3-writeline.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/3-writeline/bin/Debug/net6.0/ref/3-writeline.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/3-writeline/bin/Debug/net6.0/3-writeline.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/3-writeline/obj/Debug/net6.0/3-writeline.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/3-writeline/obj/Debug/net6.0/3-writeline.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/3-writeline/obj/Debug/net6.0/3-writeline.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/3-writeline/obj/Debug/net6.0/3-writeline.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/3-writeline/obj/Debug/net6.0/3-writeline.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/3-writeline/obj/Debug/net6.0/3-writeline.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/3-writeline/obj/Debug/net6.0/ref/3-writeline.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/3-writeline/obj/Debug/net6.0/3-writeline.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/3-writeline/obj/Debug/net6.0/3-writeline.genruntimeconfig.cache
