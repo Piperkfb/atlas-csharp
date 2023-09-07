@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/6-print_string/bin/Debug/net6.0/6-print_string
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/6-print_string/bin/Debug/net6.0/6-print_string.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/6-print_string/bin/Debug/net6.0/6-print_string.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/6-print_string/bin/Debug/net6.0/6-print_string.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/6-print_string/bin/Debug/net6.0/ref/6-print_string.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/6-print_string/bin/Debug/net6.0/6-print_string.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/6-print_string/obj/Debug/net6.0/6-print_string.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/6-print_string/obj/Debug/net6.0/6-print_string.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/6-print_string/obj/Debug/net6.0/6-print_string.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/6-print_string/obj/Debug/net6.0/6-print_string.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/6-print_string/obj/Debug/net6.0/6-print_string.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/6-print_string/obj/Debug/net6.0/6-print_string.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/6-print_string/obj/Debug/net6.0/ref/6-print_string.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/6-print_string/obj/Debug/net6.0/6-print_string.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/6-print_string/obj/Debug/net6.0/6-print_string.genruntimeconfig.cache
