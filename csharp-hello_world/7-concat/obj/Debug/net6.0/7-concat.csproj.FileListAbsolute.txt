@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/7-concat/bin/Debug/net6.0/7-concat
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/7-concat/bin/Debug/net6.0/7-concat.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/7-concat/bin/Debug/net6.0/7-concat.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/7-concat/bin/Debug/net6.0/7-concat.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/7-concat/bin/Debug/net6.0/ref/7-concat.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/7-concat/bin/Debug/net6.0/7-concat.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net6.0/7-concat.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net6.0/7-concat.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net6.0/7-concat.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net6.0/7-concat.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net6.0/7-concat.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net6.0/7-concat.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net6.0/ref/7-concat.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net6.0/7-concat.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net6.0/7-concat.genruntimeconfig.cache

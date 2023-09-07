@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/8-print_variables/bin/Debug/net6.0/8-print_variables
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/8-print_variables/bin/Debug/net6.0/8-print_variables.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/8-print_variables/bin/Debug/net6.0/8-print_variables.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/8-print_variables/bin/Debug/net6.0/8-print_variables.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/8-print_variables/bin/Debug/net6.0/ref/8-print_variables.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/8-print_variables/bin/Debug/net6.0/8-print_variables.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/8-print_variables/obj/Debug/net6.0/8-print_variables.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/8-print_variables/obj/Debug/net6.0/8-print_variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/8-print_variables/obj/Debug/net6.0/8-print_variables.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/8-print_variables/obj/Debug/net6.0/8-print_variables.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/8-print_variables/obj/Debug/net6.0/8-print_variables.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/8-print_variables/obj/Debug/net6.0/8-print_variables.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/8-print_variables/obj/Debug/net6.0/ref/8-print_variables.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/8-print_variables/obj/Debug/net6.0/8-print_variables.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/8-print_variables/obj/Debug/net6.0/8-print_variables.genruntimeconfig.cache
