@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/net6.0/1-common_elements
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/net6.0/1-common_elements.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/net6.0/1-common_elements.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/net6.0/1-common_elements.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/net6.0/ref/1-common_elements.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/net6.0/1-common_elements.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net6.0/1-common_elements.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net6.0/1-common_elements.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net6.0/1-common_elements.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net6.0/1-common_elements.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net6.0/1-common_elements.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net6.0/1-common_elements.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net6.0/ref/1-common_elements.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net6.0/1-common_elements.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net6.0/1-common_elements.genruntimeconfig.cache

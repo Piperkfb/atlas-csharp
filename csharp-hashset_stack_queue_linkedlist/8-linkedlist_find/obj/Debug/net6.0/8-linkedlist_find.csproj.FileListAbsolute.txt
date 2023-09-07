@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net6.0/8-linkedlist_find
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net6.0/8-linkedlist_find.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net6.0/8-linkedlist_find.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net6.0/8-linkedlist_find.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net6.0/ref/8-linkedlist_find.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net6.0/8-linkedlist_find.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net6.0/8-linkedlist_find.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net6.0/8-linkedlist_find.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net6.0/8-linkedlist_find.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net6.0/8-linkedlist_find.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net6.0/8-linkedlist_find.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net6.0/8-linkedlist_find.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net6.0/ref/8-linkedlist_find.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net6.0/8-linkedlist_find.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net6.0/8-linkedlist_find.genruntimeconfig.cache

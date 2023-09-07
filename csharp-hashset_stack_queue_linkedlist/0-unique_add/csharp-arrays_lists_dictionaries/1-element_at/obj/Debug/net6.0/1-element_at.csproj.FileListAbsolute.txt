@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/1-element_at/bin/Debug/net6.0/1-element_at
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/1-element_at/bin/Debug/net6.0/1-element_at.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/1-element_at/bin/Debug/net6.0/1-element_at.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/1-element_at/bin/Debug/net6.0/1-element_at.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/1-element_at/bin/Debug/net6.0/ref/1-element_at.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/1-element_at/bin/Debug/net6.0/1-element_at.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/1-element_at/obj/Debug/net6.0/1-element_at.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/1-element_at/obj/Debug/net6.0/1-element_at.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/1-element_at/obj/Debug/net6.0/1-element_at.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/1-element_at/obj/Debug/net6.0/1-element_at.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/1-element_at/obj/Debug/net6.0/1-element_at.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/1-element_at/obj/Debug/net6.0/1-element_at.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/1-element_at/obj/Debug/net6.0/ref/1-element_at.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/1-element_at/obj/Debug/net6.0/1-element_at.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/1-element_at/obj/Debug/net6.0/1-element_at.genruntimeconfig.cache

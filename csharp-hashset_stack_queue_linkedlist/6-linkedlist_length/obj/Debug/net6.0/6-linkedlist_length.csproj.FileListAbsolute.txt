@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/net6.0/6-linkedlist_length
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/net6.0/6-linkedlist_length.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/net6.0/6-linkedlist_length.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/net6.0/6-linkedlist_length.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/net6.0/ref/6-linkedlist_length.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/net6.0/6-linkedlist_length.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net6.0/6-linkedlist_length.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net6.0/6-linkedlist_length.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net6.0/6-linkedlist_length.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net6.0/6-linkedlist_length.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net6.0/6-linkedlist_length.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net6.0/6-linkedlist_length.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net6.0/ref/6-linkedlist_length.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net6.0/6-linkedlist_length.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net6.0/6-linkedlist_length.genruntimeconfig.cache

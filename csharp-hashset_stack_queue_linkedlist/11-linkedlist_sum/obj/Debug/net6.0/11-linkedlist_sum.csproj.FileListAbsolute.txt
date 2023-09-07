@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/bin/Debug/net6.0/11-linkedlist_sum
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/bin/Debug/net6.0/11-linkedlist_sum.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/bin/Debug/net6.0/11-linkedlist_sum.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/bin/Debug/net6.0/11-linkedlist_sum.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/bin/Debug/net6.0/ref/11-linkedlist_sum.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/bin/Debug/net6.0/11-linkedlist_sum.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/net6.0/11-linkedlist_sum.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/net6.0/11-linkedlist_sum.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/net6.0/11-linkedlist_sum.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/net6.0/11-linkedlist_sum.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/net6.0/11-linkedlist_sum.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/net6.0/11-linkedlist_sum.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/net6.0/ref/11-linkedlist_sum.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/net6.0/11-linkedlist_sum.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/net6.0/11-linkedlist_sum.genruntimeconfig.cache

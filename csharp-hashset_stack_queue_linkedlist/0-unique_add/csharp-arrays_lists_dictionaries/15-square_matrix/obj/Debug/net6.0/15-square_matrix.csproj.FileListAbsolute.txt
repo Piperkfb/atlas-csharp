@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net6.0/15-square_matrix
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net6.0/15-square_matrix.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net6.0/15-square_matrix.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net6.0/15-square_matrix.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net6.0/ref/15-square_matrix.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net6.0/15-square_matrix.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net6.0/15-square_matrix.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net6.0/15-square_matrix.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net6.0/15-square_matrix.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net6.0/15-square_matrix.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net6.0/15-square_matrix.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net6.0/15-square_matrix.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net6.0/ref/15-square_matrix.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net6.0/15-square_matrix.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net6.0/15-square_matrix.genruntimeconfig.cache

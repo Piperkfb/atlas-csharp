@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/net6.0/7-delete_at
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/net6.0/7-delete_at.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/net6.0/7-delete_at.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/net6.0/7-delete_at.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/net6.0/ref/7-delete_at.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/net6.0/7-delete_at.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net6.0/7-delete_at.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net6.0/7-delete_at.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net6.0/7-delete_at.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net6.0/7-delete_at.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net6.0/7-delete_at.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net6.0/7-delete_at.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net6.0/ref/7-delete_at.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net6.0/7-delete_at.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net6.0/7-delete_at.genruntimeconfig.cache
