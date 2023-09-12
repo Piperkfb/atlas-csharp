@@ -16,7 +16,7 @@ namespace Enemies
         {
             if (value < 0)
             {
-                throw new ArguementException("Health must be greater than or equal to 0")
+                throw new ArguementException("Health must be greater than or equal to 0");
             }
         }
          /// <summary> public method public int GetHealth() that returns the value of health of the Zombie object </summary>
