@@ -2,14 +2,14 @@
 
 namespace Enemies
 {
-    class Zombies
+    class Zombie
     {
         int health;
-        public Zombies()
+        public Zombie()
         {
             health = 0;
         }
-        public Zombies(int value)
+        public Zombie(int value)
         {
             if (value < 0)
             {
