@@ -5,7 +5,7 @@ namespace Enemies
     /// <summary> public class Zombie </summary>
     class Zombie
     {
-        int health;
+        private int health;
           /// <summary> public constructor: public Zombie() Initializes in 0 </summary>
         public Zombie()
         {
@@ -19,7 +19,7 @@ namespace Enemies
                 throw new System.ArgumentException("Health must be greater than or equal to 0");
             }
         }
-        string name = "(No name)";
+        private string name = "(No name)";
            /// <summary> public property Name / get: retrieve name / set: set name </summary>
         public String Name
         {
