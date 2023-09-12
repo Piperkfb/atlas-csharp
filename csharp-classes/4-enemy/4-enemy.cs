@@ -6,6 +6,7 @@ namespace Enemies
     class Zombie
     {
         private int health;
+        private string name = "(No name)";
           /// <summary> public constructor: public Zombie() Initializes in 0 </summary>
         public Zombie()
         {
@@ -21,7 +22,6 @@ namespace Enemies
         }
         private string name = "(No name)";
            /// <summary> public property Name / get: retrieve name / set: set name </summary>
-        public String Name
         {
             get
             {

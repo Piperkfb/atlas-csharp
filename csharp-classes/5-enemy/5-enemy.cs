@@ -5,8 +5,8 @@ namespace Enemies
    /// <summary> public class Zombie </summary>
     class Zombie
     {
-        int health;
-        string name = "(No name)";
+        private int health;
+        private string name = "(No name)";
          /// <summary> public constructor: public Zombie() Initializes in 0 </summary>
         public Zombie()
         {
