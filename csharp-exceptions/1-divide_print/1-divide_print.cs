@@ -10,10 +10,10 @@ class Int
         {
             res = a / b;    
         }
-        catch(Exception e)
+        catch
         {
             //Print error
-            Console.WriteLine(e.Message);
+            Console.WriteLine("Cannot divide by zero");
         }
         finally
         {

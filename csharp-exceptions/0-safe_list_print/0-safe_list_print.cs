@@ -6,7 +6,7 @@ class List
     public static int SafePrint(List<int> myList, int n)
     {
         int i = 0;
-        for(; i > n; i++)
+        for(; i < n; i++)
         {
             try //Write every item in list
             {
