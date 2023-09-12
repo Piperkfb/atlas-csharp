@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-exceptions/2-divide_lists/bin/Debug/net6.0/2-divide_lists
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-exceptions/2-divide_lists/bin/Debug/net6.0/2-divide_lists.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-exceptions/2-divide_lists/bin/Debug/net6.0/2-divide_lists.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-exceptions/2-divide_lists/bin/Debug/net6.0/2-divide_lists.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-exceptions/2-divide_lists/bin/Debug/net6.0/ref/2-divide_lists.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-exceptions/2-divide_lists/bin/Debug/net6.0/2-divide_lists.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net6.0/2-divide_lists.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net6.0/2-divide_lists.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net6.0/2-divide_lists.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net6.0/2-divide_lists.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net6.0/2-divide_lists.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net6.0/2-divide_lists.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net6.0/ref/2-divide_lists.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net6.0/2-divide_lists.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net6.0/2-divide_lists.genruntimeconfig.cache
