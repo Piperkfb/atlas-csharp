@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-classes/5-enemy/bin/Debug/net6.0/5-enemy
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-classes/5-enemy/bin/Debug/net6.0/5-enemy.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-classes/5-enemy/bin/Debug/net6.0/5-enemy.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-classes/5-enemy/bin/Debug/net6.0/5-enemy.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-classes/5-enemy/bin/Debug/net6.0/ref/5-enemy.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-classes/5-enemy/bin/Debug/net6.0/5-enemy.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net6.0/5-enemy.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net6.0/5-enemy.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net6.0/5-enemy.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net6.0/5-enemy.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net6.0/5-enemy.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net6.0/5-enemy.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net6.0/ref/5-enemy.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net6.0/5-enemy.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net6.0/5-enemy.genruntimeconfig.cache
