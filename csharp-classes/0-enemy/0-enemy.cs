@@ -3,7 +3,7 @@
 namespace Enemies
 {
     /// <summary> public class Zombie </summary>
-    class Zombie
+    public class Zombie
     {
 
     }

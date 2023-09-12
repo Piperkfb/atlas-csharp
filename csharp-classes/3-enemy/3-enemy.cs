@@ -3,7 +3,7 @@
 namespace Enemies
 {
     /// <summary> public class Zombie </summary>
-    class Zombie
+    public class Zombie
     {
         private int health;
           /// <summary> public constructor: public Zombie() Initializes in 0 </summary>
