@@ -16,10 +16,10 @@ namespace Enemies
         {
             if (value < 0)
             {
-                throw new ArguementException("Health must be greater than or equal to 0")
+                throw new ArguementException("Health must be greater than or equal to 0");
             }
         }
-        string name = "(No name)"
+        string name = "(No name)";
            /// <summary> public property Name / get: retrieve name / set: set name </summary>
         public String Name
         {
