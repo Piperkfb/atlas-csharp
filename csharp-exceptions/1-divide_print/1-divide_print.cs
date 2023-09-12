@@ -4,7 +4,7 @@ class Int
 {
     public static void divide(int a, int b)
     {
-        res = 0;
+        int res = 0;
 
         try //attempt division
         {
