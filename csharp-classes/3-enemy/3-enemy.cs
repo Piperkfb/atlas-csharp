@@ -18,6 +18,7 @@ namespace Enemies
             {
                 throw new System.ArgumentException("Health must be greater than or equal to 0");
             }
+            health=value;
         }
          /// <summary> public method public int GetHealth() that returns the value of health of the Zombie object </summary>
         public int GetHealth()

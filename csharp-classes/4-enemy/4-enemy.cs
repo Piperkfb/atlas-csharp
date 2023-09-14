@@ -19,6 +19,7 @@ namespace Enemies
             {
                 throw new System.ArgumentException("Health must be greater than or equal to 0");
             }
+            health=valuel;
         } 
         /// <summary> public property Name / get: retrieve name / set: set name </summary>
         public string Name
