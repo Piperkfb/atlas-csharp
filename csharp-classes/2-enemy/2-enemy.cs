@@ -2,25 +2,37 @@
 
 namespace Enemies
 {
-    /// <summary> public class Zombie </summary>
+    ///<summary>
+    /// This is a public class called Zombie.
+    ///</summary>
     public class Zombie
     {
-        /// <summary>
-        /// Is da health
-        /// </summary>
+        ///<summary>
+        /// This is a public int that gives a zombie health.
+        ///</summary>
+
         public int health;
-          /// <summary> public constructor: public Zombie() Initializes in 0 </summary>
+
+        ///<summary>
+        /// this is a public constructor that specifies a health value.
+        /// </summary>
+
         public Zombie()
         {
             health = 0;
         }
-         /// <summary> public constructor with parameter: public Zombie(value) Initializes in 0 </summary>
+
+        ///<summary>
+        /// This is a public constructor that specifies a positive health value.
+        ///</summary>
+
         public Zombie(int value)
         {
             if (value < 0)
             {
                 throw new ArgumentException("Health must be greater than or equal to 0");
             }
+            health = value;
         }
     }
 }
