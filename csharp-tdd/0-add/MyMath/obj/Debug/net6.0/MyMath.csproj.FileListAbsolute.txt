@@ -1,0 +1,12 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/0-add/MyMath/bin/Debug/net6.0/MyMath.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/0-add/MyMath/bin/Debug/net6.0/MyMath.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/0-add/MyMath/bin/Debug/net6.0/ref/MyMath.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/0-add/MyMath/bin/Debug/net6.0/MyMath.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/0-add/MyMath/obj/Debug/net6.0/MyMath.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/0-add/MyMath/obj/Debug/net6.0/MyMath.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/0-add/MyMath/obj/Debug/net6.0/MyMath.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/0-add/MyMath/obj/Debug/net6.0/MyMath.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/0-add/MyMath/obj/Debug/net6.0/MyMath.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/0-add/MyMath/obj/Debug/net6.0/MyMath.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/0-add/MyMath/obj/Debug/net6.0/ref/MyMath.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/0-add/MyMath/obj/Debug/net6.0/MyMath.pdb
