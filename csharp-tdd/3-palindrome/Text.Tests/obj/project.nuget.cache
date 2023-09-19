@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sR+Q2BakVUDFhFiqABN/R2NQB7yGSWdTnUBnRf7ouVmTQLV8AZK8WdoweJLxX7WRh8BbTZTZexdmJ3CUZQhq7g==",
+  "dgSpecHash": "93KMZ04kQTJ7G/k+mIN8g59jxJKfSLjgM0Ol8RV2rJfOZWk9SWrhFAUeDivOvoffWH0nNNuEfC0Rrm6Lt44zVA==",
   "success": true,
   "projectFilePath": "/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/3-palindrome/Text.Tests/Text.Tests.csproj",
   "expectedPackageFiles": [

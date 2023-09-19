@@ -9,34 +9,41 @@ namespace Text.Tests
         [Test]
         public void Basic()
         {
-            string pali = "";
+            string pali = "madam";
             bool res = Str.IsPalindrome(pali);
 
-            Assert.AreEqual(, res);
+            Assert.AreEqual(true, res);
         }
         [Test]
         public void Spaces()
         {
-            string pali = "";
+            string pali = "taco cat";
             bool res = Str.IsPalindrome(pali);
 
-            Assert.AreEqual(, res);
+            Assert.AreEqual(true, res);
         }
         [Test]
         public void Punct()
         {
-            string pali = "";
+            string pali = "a man, a plan, a canal: panama.";
             bool res = Str.IsPalindrome(pali);
 
-            Assert.AreEqual(, res);
+            Assert.AreEqual(true, res);
         }
         [Test]
         public void Cap()
         {
-            string pali = "";
+            string pali = "RaCeCar";
             bool res = Str.IsPalindrome(pali);
 
-            Assert.AreEqual(, res);
+            Assert.AreEqual(true, res);
+        }
+        public void wrong()
+        {
+            string pali = "HelloWorld";
+            bool res = Str.IsPalindrome(pali);
+
+            Assert.AreEqual(false, res);
         }
     }
 }
