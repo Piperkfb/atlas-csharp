@@ -1,17 +1,30 @@
 using NUnit.Framework;
+using System;
 
-namespace Text.Tests;
-
-public class Tests
+namespace Text.Tests
 {
-    [SetUp]
-    public void Setup()
+    [TestFixture]
+    public class PaliTests
     {
-    }
+        [Test]
+        public void Basic()
+        {
+            
+        }
+        [Test]
+        public void Spaces()
+        {
 
-    [Test]
-    public void Test1()
-    {
-        Assert.Pass();
+        }
+        [Test]
+        public void Punct()
+        {
+
+        }
+        [Test]
+        public void Cap()
+        {
+
+        }
     }
 }
