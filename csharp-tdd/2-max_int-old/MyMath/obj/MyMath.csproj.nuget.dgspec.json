@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/2-max_int/MyMath.Tests/MyMath.Tests.csproj": {}
+    "/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/2-max_int/MyMath/MyMath.csproj": {}
   },
   "projects": {
-    "/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/2-max_int/MyMath.Tests/MyMath.Tests.csproj": {
+    "/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/2-max_int/MyMath/MyMath.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/2-max_int/MyMath.Tests/MyMath.Tests.csproj",
-        "projectName": "MyMath.Tests",
-        "projectPath": "/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/2-max_int/MyMath.Tests/MyMath.Tests.csproj",
+        "projectUniqueName": "/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/2-max_int/MyMath/MyMath.csproj",
+        "projectName": "MyMath",
+        "projectPath": "/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/2-max_int/MyMath/MyMath.csproj",
         "packagesPath": "/home/piperkfb/.nuget/packages/",
-        "outputPath": "/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/2-max_int/MyMath.Tests/obj/",
+        "outputPath": "/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/2-max_int/MyMath/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/piperkfb/.nuget/NuGet/NuGet.Config"
@@ -37,24 +37,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.NET.Test.Sdk": {
-              "target": "Package",
-              "version": "[16.11.0, )"
-            },
-            "NUnit": {
-              "target": "Package",
-              "version": "[3.13.2, )"
-            },
-            "NUnit3TestAdapter": {
-              "target": "Package",
-              "version": "[4.0.0, )"
-            },
-            "coverlet.collector": {
-              "target": "Package",
-              "version": "[3.1.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
