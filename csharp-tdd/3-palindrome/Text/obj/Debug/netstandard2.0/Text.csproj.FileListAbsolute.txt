@@ -1,0 +1,5 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/3-palindrome/Text/obj/Debug/netstandard2.0/Text.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/3-palindrome/Text/obj/Debug/netstandard2.0/Text.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/3-palindrome/Text/obj/Debug/netstandard2.0/Text.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/3-palindrome/Text/obj/Debug/netstandard2.0/Text.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/3-palindrome/Text/obj/Debug/netstandard2.0/Text.csproj.CoreCompileInputs.cache
