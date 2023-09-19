@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "j4rpu08ml1fmAZ5ih2SQej6hJKUQBFYSckl5itLE2N1hGqRezXHzg7L3DqAUpQQ9jdU2AhELvupcVq8MGkEJhA==",
+  "dgSpecHash": "QH6Zacf6ZAaCdGgg7JVnhIFIk/IggspvLE5OvX6Il96IzLIn23VWEJ6uVrZzi5cJ2s/o1zqDZG4ONgulIq/ktg==",
   "success": true,
   "projectFilePath": "/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/4-unique/Text.Tests/Text.Tests.csproj",
   "expectedPackageFiles": [

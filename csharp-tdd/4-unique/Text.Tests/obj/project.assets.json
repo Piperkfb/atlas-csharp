@@ -882,6 +882,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "Text/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Text.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Text.dll": {}
+        }
       }
     }
   },
@@ -3844,6 +3854,11 @@
         "system.xml.xdocument.4.0.11.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "Text/1.0.0": {
+      "type": "project",
+      "path": "../Text/Text.csproj",
+      "msbuildProject": "../Text/Text.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3851,6 +3866,7 @@
       "Microsoft.NET.Test.Sdk >= 16.11.0",
       "NUnit >= 3.13.2",
       "NUnit3TestAdapter >= 4.0.0",
+      "Text >= 1.0.0",
       "coverlet.collector >= 3.1.0"
     ]
   },
@@ -3878,7 +3894,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/4-unique/Text/Text.csproj": {
+              "projectPath": "/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/4-unique/Text/Text.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -18,7 +18,8 @@ namespace Text
         {
             string Forward = "";
             string Backwards = "";
-            int count = s.Length();
+            char[] stringy = s.ToCharArray();
+            int count = stringy.Length();
 
             if(count <= 0)
                 return true;
@@ -35,7 +36,6 @@ namespace Text
                 }
             }
             Forward = Forward.ToLower();
-            char[] chars = Forward.ToCharArray();
             Array.Reverse(chars);
             Backwards = new string(chars);
             if(Forward == Backwards)
