@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Globalization;
+using System.Text.RegularExpressions;
 
 namespace Text
 {
@@ -16,7 +18,7 @@ namespace Text
         {
             string Forward = "";
             string Backwards = "";
-            int count = s.Count();
+            int count = s.Length();
 
             if(count <= 0)
                 return true;
