@@ -1,9 +1,9 @@
-﻿﻿using System;
+﻿using System;
 
 namespace MyMath
 {
     /// <summary>
-    /// Method of Operations
+    /// Method of operations
     /// </summary>
     public class Operations
     {
