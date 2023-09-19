@@ -1,17 +1,11 @@
 using NUnit.Framework;
+using System;
 
-namespace Text.Tests;
-
-public class Tests
+namespace Text.Tests
 {
-    [SetUp]
-    public void Setup()
+    [TestFixture]
+    public class blah
     {
-    }
-
-    [Test]
-    public void Test1()
-    {
-        Assert.Pass();
+        
     }
 }
