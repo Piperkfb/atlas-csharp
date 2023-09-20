@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Text
 {
@@ -6,26 +7,22 @@ namespace Text
     {
         public static int UniqueChar(string s)
         {
-            int cnt = s.Count();
-
-            for(int x = 0; x <= cnt; x++)
+            if (s == null)
+                return -1;
+            s = s.ToLower();
+            char[] arr = s.ToCharArray();
+            int c;
+            for(int i=0; i <= arr.Length-1;i++)
             {
-                char Spot = s[x];
-                int c = 0;
-                foreach(char i in s)
+                c = 0;
+                for(int j=0; j <= arr.Length-1;j++)
                 {
-                    if(Spot == i)
-                    {
-                        c += 1;
-                        break;
-                    }
-                    else
-                    {
-                        continue;
-                    }
+                    if (i != j)
+                        if(arr[i] == arr[j])
+                            c += 1;                    
                 }
-                if(c == 0)
-                    return x;
+                if (c == 0)
+                    return i;
             }
             return -1;
         }

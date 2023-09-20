@@ -47,7 +47,6 @@ namespace Text
             //###.ToLower()
             //.Count()
             //blank = blank + str[i]
-
         }
     }
 }
