@@ -38,12 +38,20 @@ namespace Text.Tests
 
             Assert.AreEqual(true, res);
         }
+        [Test]
         public void wrong()
         {
             string pali = "HelloWorld";
             bool res = Str.IsPalindrome(pali);
 
             Assert.AreEqual(false, res);
+        }
+        public void Empty()
+        {
+            string pali = "";
+            bool res = Str.IsPalindrome(pali);
+
+            Assert.AreEqual(true, res)
         }
     }
 }
