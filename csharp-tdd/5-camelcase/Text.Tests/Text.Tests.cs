@@ -23,6 +23,14 @@ namespace Text.Tests
             Assert.AreEqual(1, res);
         }
         [Test]
+        public void TwoWords()
+        {
+            string s = "heeow Hope";
+            int res = Str.CamelCase(s);
+
+            Assert.AreEqual(2, res)
+        }
+        [Test]
         public void MultipleWords()
         {
             string s = "hewwo How Are You";
