@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Text</name>
+    </assembly>
+    <members>
+        <member name="T:Text.Str">
+            <summary>
+            Method called Str
+            </summary>
+        </member>
+        <member name="M:Text.Str.IsPalindrome(System.String)">
+            <summary>
+            Checks for palindrome
+            </summary>
+            <param name="s">The string</param>
+            <returns>True or False</returns>
+        </member>
+    </members>
+</doc>

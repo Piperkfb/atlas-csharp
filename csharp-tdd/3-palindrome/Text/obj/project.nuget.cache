@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VQb7pLSm02PQ6jy6i93DWYJcPdLG0bWuOEeMcBbrFievciVz1cMtboqwmKuBXkkkpQOu7Y9VcBtUsbnsHvhOrA==",
+  "dgSpecHash": "8JoyXdLgNXinllPrHWh1h16bN0kTM688iCpyxY/zhegA9modNJY0hx6IabAFOS6Johw817jwMe5wkMpsxRWXpw==",
   "success": true,
   "projectFilePath": "/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/3-palindrome/Text/Text.csproj",
-  "expectedPackageFiles": [
-    "/home/piperkfb/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/home/piperkfb/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

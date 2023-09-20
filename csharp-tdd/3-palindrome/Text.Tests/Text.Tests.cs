@@ -52,7 +52,7 @@ namespace Text.Tests
             string pali = "";
             bool res = Str.IsPalindrome(pali);
 
-            Assert.AreEqual(true, res)
+            Assert.AreEqual(true, res);
         }
     }
 }
