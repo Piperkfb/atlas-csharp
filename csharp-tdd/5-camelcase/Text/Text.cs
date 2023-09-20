@@ -1,5 +1,6 @@
-﻿namespace Text;
-public class Class1
-{
+﻿using System;
 
+namespace Text
+{
+    
 }

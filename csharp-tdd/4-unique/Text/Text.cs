@@ -3,8 +3,16 @@ using System.Collections.Generic;
 
 namespace Text
 {
+    /// <summary>
+    /// Class Str
+    /// </summary>
     public class Str
     {
+        /// <summary>
+        /// Find first non repeating character
+        /// </summary>
+        /// <param name="s">The string</param>
+        /// <returns>index space</returns>
         public static int UniqueChar(string s)
         {
             if (s == null)
