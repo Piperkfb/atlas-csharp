@@ -21,7 +21,7 @@ public class Obj
         Console.WriteLine("{0} Methods:", className);
         foreach (var item in myObj.GetType().GetMethods())
         {
-            Console.WriteLine(item.Name)
+            Console.WriteLine(item.Name);
         }
     }
 }
