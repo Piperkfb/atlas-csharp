@@ -3,3 +3,9 @@
 /home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/3-palindrome/Text/obj/Debug/netstandard2.0/Text.AssemblyInfoInputs.cache
 /home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/3-palindrome/Text/obj/Debug/netstandard2.0/Text.AssemblyInfo.cs
 /home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/3-palindrome/Text/obj/Debug/netstandard2.0/Text.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/3-palindrome/Text/bin/Debug/netstandard2.0/Text.xml
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/3-palindrome/Text/bin/Debug/netstandard2.0/Text.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/3-palindrome/Text/bin/Debug/netstandard2.0/Text.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/3-palindrome/Text/bin/Debug/netstandard2.0/Text.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/3-palindrome/Text/obj/Debug/netstandard2.0/Text.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/3-palindrome/Text/obj/Debug/netstandard2.0/Text.pdb
