@@ -14,39 +14,22 @@ namespace Text
         /// </summary>
         /// <param name="s">The string</param>
         /// <returns>True or False</returns>
-        public static bool IsPalindrome(string s)
+          public static bool IsPalindrome(string s)
         {
-            string Forward = "";
-            string Backwards = "";
-            char[] stringy = s.ToCharArray();
-            int count = stringy.Length();
+            string s2 = s.ToLower();
+            s2 = Regex.Replace(s2, "[:;,. \t\n\r]", "");
+            int Length = s2.Length - 1;
+            string reverse = "";  
 
-            if(count <= 0)
-                return true;
-            //for(x = 0; x <= count; x++)
-            foreach(char i in s)
-            {
-                if(Char.IsPunctuation(i) == true)
-                    continue;
-                else if(Char.IsWhiteSpace(i) == true)
-                    continue;
-                else
-                {
-                    Forward = Forward + i;
-                }
+            while(Length>=0)  
+            {  
+                reverse = reverse + s2[Length];  
+                Length--;  
             }
-            Forward = Forward.ToLower();
-            Array.Reverse(chars);
-            Backwards = new string(chars);
-            if(Forward == Backwards)
+            if (s2 == reverse)
                 return true;
             else
-                return false;       
-            //Char.IsPunctuation(str[i])
-            //Char.IsWhiteSpace(str[i])
-            //###.ToLower()
-            //.Count()
-            //blank = blank + str[i]
+                return false;
         }
     }
 }
