@@ -46,6 +46,7 @@ namespace Text.Tests
 
             Assert.AreEqual(false, res);
         }
+        [Test]
         public void Empty()
         {
             string pali = "";
