@@ -28,7 +28,7 @@ namespace Text.Tests
             string s = "heeow Hope";
             int res = Str.CamelCase(s);
 
-            Assert.AreEqual(2, res)
+            Assert.AreEqual(2, res);
         }
         [Test]
         public void MultipleWords()
