@@ -1,17 +1,34 @@
 using NUnit.Framework;
+using System;
 
-namespace Text.Tests;
-
-public class Tests
+namespace Text.Tests
 {
-    [SetUp]
-    public void Setup()
+    [TestFixture]
+    public class CamelTests
     {
-    }
+        [Test]
+        public void Blank()
+        {
+            string s = "";
+            int res = Str.CamelCase(s);
 
-    [Test]
-    public void Test1()
-    {
-        Assert.Pass();
+            Assert.AreEqual(0, res);
+        }
+        [Test]
+        public void OneWord()
+        {
+            string s = "hewwo";
+            int res = Str.CamelCase(s);
+
+            Assert.AreEqual(1, res);
+        }
+        [Test]
+        public void MultipleWords()
+        {
+            string s = "hewwo How Are You";
+            int res = Str.CamelCase(s);
+
+            Assert.AreEqual(4, res);
+        }
     }
 }

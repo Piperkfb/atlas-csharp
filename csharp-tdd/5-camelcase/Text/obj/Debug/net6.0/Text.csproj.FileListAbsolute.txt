@@ -1,0 +1,13 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/5-camelcase/Text/obj/Debug/net6.0/Text.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/5-camelcase/Text/obj/Debug/net6.0/Text.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/5-camelcase/Text/obj/Debug/net6.0/Text.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/5-camelcase/Text/obj/Debug/net6.0/Text.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/5-camelcase/Text/obj/Debug/net6.0/Text.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/5-camelcase/Text/bin/Debug/net6.0/Text.xml
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/5-camelcase/Text/bin/Debug/net6.0/Text.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/5-camelcase/Text/bin/Debug/net6.0/Text.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/5-camelcase/Text/bin/Debug/net6.0/ref/Text.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/5-camelcase/Text/bin/Debug/net6.0/Text.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/5-camelcase/Text/obj/Debug/net6.0/Text.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/5-camelcase/Text/obj/Debug/net6.0/ref/Text.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-tdd/5-camelcase/Text/obj/Debug/net6.0/Text.pdb
