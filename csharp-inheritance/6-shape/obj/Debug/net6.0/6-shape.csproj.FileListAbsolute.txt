@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/6-shape/bin/Debug/net6.0/6-shape
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/6-shape/bin/Debug/net6.0/6-shape.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/6-shape/bin/Debug/net6.0/6-shape.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/6-shape/bin/Debug/net6.0/6-shape.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/6-shape/bin/Debug/net6.0/ref/6-shape.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/6-shape/bin/Debug/net6.0/6-shape.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/6-shape/obj/Debug/net6.0/6-shape.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/6-shape/obj/Debug/net6.0/6-shape.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/6-shape/obj/Debug/net6.0/6-shape.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/6-shape/obj/Debug/net6.0/6-shape.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/6-shape/obj/Debug/net6.0/6-shape.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/6-shape/obj/Debug/net6.0/6-shape.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/6-shape/obj/Debug/net6.0/ref/6-shape.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/6-shape/obj/Debug/net6.0/6-shape.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/6-shape/obj/Debug/net6.0/6-shape.genruntimeconfig.cache

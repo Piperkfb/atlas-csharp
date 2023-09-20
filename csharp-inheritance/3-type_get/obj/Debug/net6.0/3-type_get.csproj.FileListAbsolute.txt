@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/3-type_get/bin/Debug/net6.0/3-type_get
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/3-type_get/bin/Debug/net6.0/3-type_get.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/3-type_get/bin/Debug/net6.0/3-type_get.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/3-type_get/bin/Debug/net6.0/3-type_get.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/3-type_get/bin/Debug/net6.0/ref/3-type_get.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/3-type_get/bin/Debug/net6.0/3-type_get.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net6.0/3-type_get.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net6.0/3-type_get.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net6.0/3-type_get.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net6.0/3-type_get.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net6.0/3-type_get.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net6.0/3-type_get.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net6.0/ref/3-type_get.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net6.0/3-type_get.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net6.0/3-type_get.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/0-is/bin/Debug/net6.0/0-is
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/0-is/bin/Debug/net6.0/0-is.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/0-is/bin/Debug/net6.0/0-is.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/0-is/bin/Debug/net6.0/0-is.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/0-is/bin/Debug/net6.0/ref/0-is.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/0-is/bin/Debug/net6.0/0-is.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/0-is/obj/Debug/net6.0/0-is.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/0-is/obj/Debug/net6.0/0-is.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/0-is/obj/Debug/net6.0/0-is.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/0-is/obj/Debug/net6.0/0-is.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/0-is/obj/Debug/net6.0/0-is.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/0-is/obj/Debug/net6.0/0-is.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/0-is/obj/Debug/net6.0/ref/0-is.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/0-is/obj/Debug/net6.0/0-is.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-inheritance/0-is/obj/Debug/net6.0/0-is.genruntimeconfig.cache
