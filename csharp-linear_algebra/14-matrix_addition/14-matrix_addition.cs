@@ -1,7 +1,16 @@
 ﻿using System;
 
+/// <summary>
+/// Math for MAtrixes
+/// </summary>
 public class MatrixMath
 {
+    /// <summary>
+    /// Add matrixes
+    /// </summary>
+    /// <param name="matrix1"></param>
+    /// <param name="matrix2"></param>
+    /// <returns></returns>
     public static double[,] Add(double[,] matrix1, double[,] matrix2)
     {
 		if (matrix1.GetLength(0) == 2 && matrix1.GetLength(1) == 2 &&
