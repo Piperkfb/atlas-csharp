@@ -23,6 +23,8 @@ public class MatrixMath
             res[1, 0] = matrix[1, 0] * scalar;
             res[0, 1] = matrix[0, 1] * scalar;
             res[1, 1] = matrix[1, 1] * scalar;
+            
+            return res;
         }
         else if(matrix.GetLength(0) == 3 && matrix.GetLength(1) == 3)
         {
@@ -40,7 +42,10 @@ public class MatrixMath
             res[0, 2] = matrix[0, 2] * scalar;
             res[1, 2] = matrix[1, 2] * scalar;
             res[2, 2] = matrix[2, 2] * scalar;
+
+            return res;
         }
-        return new double[,] {{-1}};
+        else
+            return new double[,] {{-1}};
     }
 }
