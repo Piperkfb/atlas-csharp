@@ -13,3 +13,4 @@
 /home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/obj/Debug/net6.0/ref/6-vector_addition.dll
 /home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/obj/Debug/net6.0/6-vector_addition.pdb
 /home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/obj/Debug/net6.0/6-vector_addition.genruntimeconfig.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/bin/Debug/net6.0/6-vector_addition.xml
