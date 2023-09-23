@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/net6.0/3-magnitude
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/net6.0/3-magnitude.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/net6.0/3-magnitude.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/net6.0/3-magnitude.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/net6.0/ref/3-magnitude.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/net6.0/3-magnitude.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/ref/3-magnitude.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.genruntimeconfig.cache
