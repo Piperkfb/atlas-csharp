@@ -24,6 +24,6 @@ public class VectorMath
             return res;
         }
         else
-            return {-1};
+            return new double[] {-1};
     }
 }
