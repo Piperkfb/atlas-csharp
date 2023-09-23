@@ -24,6 +24,6 @@ public class VectorMath
             return res;
         }
         else
-            return res;
+            return -1;
     }
 }
