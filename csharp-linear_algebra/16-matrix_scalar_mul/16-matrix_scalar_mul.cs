@@ -41,7 +41,6 @@ public class MatrixMath
             res[1, 2] = matrix[1, 2] * scalar;
             res[2, 2] = matrix[2, 2] * scalar;
         }
-        else
-            return new double[,] {{-1}};
+        return new double[,] {{-1}};
     }
 }
