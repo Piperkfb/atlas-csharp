@@ -1,7 +1,13 @@
 ﻿using System;
 
+/// <summary>
+/// Math for MAtrixes
+/// </summary>
 public class MatrixMath
 {
+    /// <summary>
+    /// Find Shear Matrix for 2d matrixes
+    /// </summary>
     public static double[,] Shear2D(double[,] matrix, char direction, double factor)
     {
         double[,] NewMatrix = new double[2,2];
