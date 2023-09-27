@@ -3,7 +3,7 @@
 class MatrixMath
 {
     /// <summary>Inverse a matrix</summary>
-    public static double[,] Inverse(double[,] matrix)
+    public static double[,] Inverse2D(double[,] matrix)
     {
         int rows = matrix.GetLength(0);
         int cols = matrix.GetLength(1);
