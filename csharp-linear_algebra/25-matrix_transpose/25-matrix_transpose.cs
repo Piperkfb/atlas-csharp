@@ -16,7 +16,7 @@ class MatrixMath
 
         for (int x = 0; x < rows; x++)
             for (int y = 0; y < cols; y++)
-                restult[y, x] = matrix[x, y];
+                result[y, x] = matrix[x, y];
         return result;
     }
 }
