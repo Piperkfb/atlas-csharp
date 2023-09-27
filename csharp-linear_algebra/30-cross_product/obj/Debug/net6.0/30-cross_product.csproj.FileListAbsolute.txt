@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/bin/Debug/net6.0/30-cross_product
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/bin/Debug/net6.0/30-cross_product.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/bin/Debug/net6.0/30-cross_product.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/bin/Debug/net6.0/30-cross_product.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/bin/Debug/net6.0/ref/30-cross_product.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/bin/Debug/net6.0/30-cross_product.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/obj/Debug/net6.0/30-cross_product.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/obj/Debug/net6.0/30-cross_product.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/obj/Debug/net6.0/30-cross_product.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/obj/Debug/net6.0/30-cross_product.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/obj/Debug/net6.0/30-cross_product.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/obj/Debug/net6.0/30-cross_product.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/obj/Debug/net6.0/ref/30-cross_product.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/obj/Debug/net6.0/30-cross_product.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/obj/Debug/net6.0/30-cross_product.genruntimeconfig.cache
