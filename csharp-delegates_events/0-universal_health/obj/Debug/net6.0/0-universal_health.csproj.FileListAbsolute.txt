@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-delegates_events/0-universal_health/bin/Debug/net6.0/0-universal_health
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-delegates_events/0-universal_health/bin/Debug/net6.0/0-universal_health.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-delegates_events/0-universal_health/bin/Debug/net6.0/0-universal_health.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-delegates_events/0-universal_health/bin/Debug/net6.0/0-universal_health.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-delegates_events/0-universal_health/bin/Debug/net6.0/ref/0-universal_health.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-delegates_events/0-universal_health/bin/Debug/net6.0/0-universal_health.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-delegates_events/0-universal_health/obj/Debug/net6.0/0-universal_health.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-delegates_events/0-universal_health/obj/Debug/net6.0/0-universal_health.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-delegates_events/0-universal_health/obj/Debug/net6.0/0-universal_health.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-delegates_events/0-universal_health/obj/Debug/net6.0/0-universal_health.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-delegates_events/0-universal_health/obj/Debug/net6.0/0-universal_health.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-delegates_events/0-universal_health/obj/Debug/net6.0/0-universal_health.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-delegates_events/0-universal_health/obj/Debug/net6.0/ref/0-universal_health.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-delegates_events/0-universal_health/obj/Debug/net6.0/0-universal_health.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-delegates_events/0-universal_health/obj/Debug/net6.0/0-universal_health.genruntimeconfig.cache
