@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-interfaces/3-decorations/bin/Debug/net6.0/3-decorations
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-interfaces/3-decorations/bin/Debug/net6.0/3-decorations.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-interfaces/3-decorations/bin/Debug/net6.0/3-decorations.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-interfaces/3-decorations/bin/Debug/net6.0/3-decorations.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-interfaces/3-decorations/bin/Debug/net6.0/ref/3-decorations.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-interfaces/3-decorations/bin/Debug/net6.0/3-decorations.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/net6.0/3-decorations.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/net6.0/3-decorations.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/net6.0/3-decorations.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/net6.0/3-decorations.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/net6.0/3-decorations.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/net6.0/3-decorations.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/net6.0/ref/3-decorations.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/net6.0/3-decorations.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/net6.0/3-decorations.genruntimeconfig.cache
