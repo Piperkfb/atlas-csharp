@@ -1,0 +1,15 @@
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-generics/5-concatenate/bin/Debug/net6.0/5-concatenate
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-generics/5-concatenate/bin/Debug/net6.0/5-concatenate.deps.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-generics/5-concatenate/bin/Debug/net6.0/5-concatenate.runtimeconfig.json
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-generics/5-concatenate/bin/Debug/net6.0/5-concatenate.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-generics/5-concatenate/bin/Debug/net6.0/ref/5-concatenate.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-generics/5-concatenate/bin/Debug/net6.0/5-concatenate.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net6.0/5-concatenate.csproj.AssemblyReference.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net6.0/5-concatenate.GeneratedMSBuildEditorConfig.editorconfig
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net6.0/5-concatenate.AssemblyInfoInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net6.0/5-concatenate.AssemblyInfo.cs
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net6.0/5-concatenate.csproj.CoreCompileInputs.cache
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net6.0/5-concatenate.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net6.0/ref/5-concatenate.dll
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net6.0/5-concatenate.pdb
+/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net6.0/5-concatenate.genruntimeconfig.cache
