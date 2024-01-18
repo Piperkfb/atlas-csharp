@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "HHMSurHo2j2bdepqUjuHXfu9BdBs8RDBSiup1cvfr6WWNaIP5XlAm3Ynmn1cjFZRixcEOhaVdWoYFIkUsxeXUw==",
+  "dgSpecHash": "Tk+oL3J2L1TBED27iM5HpDcmWJylLhJPaOaX+APjm5s8Oy5diAUK3OTjxDX9rk6tTZWBX2av7k3qDv+t2rKpHg==",
   "success": true,
-  "projectFilePath": "/home/piperkfb/Holberton_vscode/C#/holbertonschool-csharp/csharp-hello_world/6-print_string/6-print_string.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/piperkfb/Holberton_vscode/atlas-csharp/csharp-hello_world/6-print_string/6-print_string.csproj",
+  "expectedPackageFiles": [
+    "/home/piperkfb/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "/home/piperkfb/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "/home/piperkfb/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "/home/piperkfb/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "/home/piperkfb/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "/home/piperkfb/.nuget/packages/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "/home/piperkfb/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
