@@ -1,0 +1,11 @@
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-linear_algebra\25-matrix_transpose\bin\Debug\netcoreapp2.1\25-matrix_transpose.deps.json
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-linear_algebra\25-matrix_transpose\bin\Debug\netcoreapp2.1\25-matrix_transpose.runtimeconfig.json
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-linear_algebra\25-matrix_transpose\bin\Debug\netcoreapp2.1\25-matrix_transpose.runtimeconfig.dev.json
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-linear_algebra\25-matrix_transpose\bin\Debug\netcoreapp2.1\25-matrix_transpose.dll
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-linear_algebra\25-matrix_transpose\bin\Debug\netcoreapp2.1\25-matrix_transpose.pdb
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-linear_algebra\25-matrix_transpose\obj\Debug\netcoreapp2.1\25-matrix_transpose.csprojAssemblyReference.cache
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-linear_algebra\25-matrix_transpose\obj\Debug\netcoreapp2.1\25-matrix_transpose.csproj.CoreCompileInputs.cache
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-linear_algebra\25-matrix_transpose\obj\Debug\netcoreapp2.1\25-matrix_transpose.AssemblyInfoInputs.cache
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-linear_algebra\25-matrix_transpose\obj\Debug\netcoreapp2.1\25-matrix_transpose.AssemblyInfo.cs
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-linear_algebra\25-matrix_transpose\obj\Debug\netcoreapp2.1\25-matrix_transpose.dll
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-linear_algebra\25-matrix_transpose\obj\Debug\netcoreapp2.1\25-matrix_transpose.pdb
