@@ -11,12 +11,25 @@ class VectorMath
     public static double[] Multiply(double[] vector, double scalar)
     {
         // 2d or 3d
-        double[] results = {0, 0}
-        for (int i = 0; i <= 2; i++)
+        if (vector.Length == 2)
         {
-            results[i] = (vector[i] * scalar);
+            double[] results = {0, 0};
+            for (int i = 0; i <= 1; i++)
+            {
+                results[i] = (vector[i] * scalar);
+            }
             return results;
         }
+        else if (vector.Length == 3)
+        {
+            double[] results = {0, 0, 0};
+            for (int i = 0; i <= 2; i++)
+            {
+                results[i] = (vector[i] * scalar);
+            }
+            return results;
+        } 
         return new double[] {-1};
     }
+       
 }
