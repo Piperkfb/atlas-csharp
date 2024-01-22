@@ -15,7 +15,7 @@ class VectorMath
         {
             //add vectors
             double[] results = (0, 0);
-            for (i = 0; i <= 1; i++)
+            for (int i = 0; i <= 1; i++)
                 {
                     results[i] = Math.Add(vector1[i], vector2[i]);
                     return results;
@@ -26,7 +26,7 @@ class VectorMath
         {
             //add vectors
             double[] results = (0, 0, 0);
-            for (i = 0; i <= 2; i++)
+            for (int i = 0; i <= 2; i++)
                 {
                     results[i] = Math.Add(vector1[i], vector2[i]);
                     return results;
