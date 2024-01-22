@@ -17,9 +17,9 @@ class VectorMath
             double[] results = {0, 0};
             for (int i = 0; i <= 1; i++)
                 {
-                    results[i] = (vector1[i] + vector2[i]);
-                    return results;
+                    results[i] = (vector1[i] + vector2[i]);    
                 }
+            return results;
         }
 
         else if (vector1.Length == 3 && vector2.Length == 3)
@@ -29,8 +29,8 @@ class VectorMath
             for (int i = 0; i <= 2; i++)
                 {
                     results[i] = (vector1[i] + vector2[i]);
-                    return results;
                 }
+            return results;
         }
         // uneven sizes return -1
         return new double[] {-1};
