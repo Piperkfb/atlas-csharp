@@ -14,7 +14,7 @@ class VectorMath
         if (vector1.Length == 2 && vector2.Length == 2)
         {
             //add vectors
-            double[] results = (0, 0);
+            double[] results = {0, 0};
             for (int i = 0; i <= 1; i++)
                 {
                     results[i] = Math.Add(vector1[i], vector2[i]);
@@ -25,7 +25,7 @@ class VectorMath
         else if (vector1.Length == 3 && vector2.Length == 3)
         {
             //add vectors
-            double[] results = (0, 0, 0);
+            double[] results = {0, 0, 0};
             for (int i = 0; i <= 2; i++)
                 {
                     results[i] = Math.Add(vector1[i], vector2[i]);
