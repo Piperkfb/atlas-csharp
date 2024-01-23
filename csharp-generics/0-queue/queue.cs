@@ -2,7 +2,7 @@
 
 class Queue<T>
 {
-    public Typecheck CheckType()
+    public Type CheckType()
     {
         return typeof(T);
     }
