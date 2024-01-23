@@ -38,7 +38,7 @@ class Queue<T>
         count++;
     }
 
-    public T Dequeue(T value)
+    public T Dequeue()
     {
         if (head == null)
         {
