@@ -1,12 +1,16 @@
 ﻿using System;
 
-namespace _33_inverse_2D
+class MatrixMath
 {
-    class Program
+    public static double[,] Inverse2D(double[,] matrix)
     {
-        static void Main(string[] args)
+        int rows = matrix.GetLength(0);
+        int cols = matrix.GetLength(1);
+
+        if (rows == 2)
         {
-            Console.WriteLine("Hello World!");
+            
         }
+
     }
 }
