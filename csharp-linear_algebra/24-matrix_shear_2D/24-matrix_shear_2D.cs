@@ -12,7 +12,7 @@ class MatrixMath
     {
         double[,] res = new double[2,2];
         double[,] shearMatrix;
-        double[,] fail = {-1};
+        double[,] fail = {{-1}};
 
         if (matrix.GetLength(0) == 2 && matrix.GetLength(1) == 2)
         {
