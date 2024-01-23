@@ -1,0 +1,11 @@
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-generics\2-dequeue\bin\Debug\netcoreapp2.1\2-dequeue.deps.json
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-generics\2-dequeue\bin\Debug\netcoreapp2.1\2-dequeue.runtimeconfig.json
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-generics\2-dequeue\bin\Debug\netcoreapp2.1\2-dequeue.runtimeconfig.dev.json
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-generics\2-dequeue\bin\Debug\netcoreapp2.1\2-dequeue.dll
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-generics\2-dequeue\bin\Debug\netcoreapp2.1\2-dequeue.pdb
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-generics\2-dequeue\obj\Debug\netcoreapp2.1\2-dequeue.csprojAssemblyReference.cache
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-generics\2-dequeue\obj\Debug\netcoreapp2.1\2-dequeue.csproj.CoreCompileInputs.cache
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-generics\2-dequeue\obj\Debug\netcoreapp2.1\2-dequeue.AssemblyInfoInputs.cache
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-generics\2-dequeue\obj\Debug\netcoreapp2.1\2-dequeue.AssemblyInfo.cs
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-generics\2-dequeue\obj\Debug\netcoreapp2.1\2-dequeue.dll
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-generics\2-dequeue\obj\Debug\netcoreapp2.1\2-dequeue.pdb
