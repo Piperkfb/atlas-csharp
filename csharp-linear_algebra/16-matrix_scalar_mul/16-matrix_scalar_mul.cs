@@ -21,7 +21,7 @@ class MatrixMath
                 }
             return res;
         }
-        else if (matrix.GetLength(0) == 3 && matrix.GetLength(1) == 3 && matrix.GetLength(2) == 3)
+        else if (matrix.GetLength(0) == 3 && matrix.GetLength(1) == 3)
         {
             double[,] res = {{0, 0, 0}, {0, 0, 0}, {0, 0, 0}};
             for (int i = 0; i <= 2; i++)
