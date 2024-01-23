@@ -1,8 +1,14 @@
 ﻿using System;
 
+/// <summary>
+/// class matrix math
+/// </summary>
 class MatrixMath
 {
-       public static double[,] Shear2D(double[,] matrix, char direction, double factor)
+    /// <summary>
+    /// shear 2d matrix
+    /// </summary>
+    public static double[,] Shear2D(double[,] matrix, char direction, double factor)
     {
         double[,] res = new double[2,2];
         double[,] shearMatrix;
