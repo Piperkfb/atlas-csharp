@@ -14,7 +14,7 @@ public class Player
         if (maxHp <= 0)
         {
             this.maxHp = 100f;
-            Console.WriteLine("maxHp must be greater than 0. maxHp set to 100f by default.")
+            Console.WriteLine("maxHp must be greater than 0. maxHp set to 100f by default.");
         }
         
         if (hp != maxHp)
@@ -25,6 +25,6 @@ public class Player
     }
     public void PrintHealth()
     {
-        console.WriteLine("{0} has {1} / {2} health", this.name, this.hp, this.maxHp)
+        console.WriteLine("{0} has {1} / {2} health", this.name, this.hp, this.maxHp);
     }
 }
