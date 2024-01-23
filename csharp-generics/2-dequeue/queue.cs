@@ -12,7 +12,7 @@ class Queue<T>
     /// <summary> creation of node </summary>
     public class Node
     {
-        private T value;
+        public T value;
         public Node next = null;
 
         public Node(T stri)
