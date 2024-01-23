@@ -6,7 +6,7 @@
 class MatrixMath
 {
     /// <summary>
-    /// 
+    /// Add matrixes
     /// </summary>
     public static double[,] Add(double[,] matrix1, double[,] matrix2)
     {

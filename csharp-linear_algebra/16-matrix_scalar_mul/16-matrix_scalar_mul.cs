@@ -5,6 +5,9 @@
 /// </summary>
 class MatrixMath
 {
+    /// <summary>
+    /// multiplies a matrix by a scalar
+    /// </summary>
     public static double[,] MultiplyScalar(double[,] matrix, double scalar)
     {
         //2d or 3d
@@ -29,6 +32,5 @@ class MatrixMath
             return res;
         }
         return new double[,] {{-1}};
-    }
     }
 }
