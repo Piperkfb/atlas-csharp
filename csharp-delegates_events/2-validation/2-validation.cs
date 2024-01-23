@@ -55,6 +55,7 @@ public class Player
             ValidateHP(this.hp);
         }
     }
+/// <summary>makes sure to validate hp </summary>
 
     public void ValidateHP(float newHp)
     {
