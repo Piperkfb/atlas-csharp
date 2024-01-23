@@ -27,6 +27,7 @@ public class Player
 
     delegate void CalculateHealth(float health);
 
+/// <summary>damages player</summary>
     public void TakeDamage(float damage)
     {
         if (damage <= 0)
@@ -39,6 +40,7 @@ public class Player
             this.hp -= damage;
         }
     }
+    ///<summary> Heals player</summary>
     public void HealDamage(float heal)
     {
         if (heal <= 0)
