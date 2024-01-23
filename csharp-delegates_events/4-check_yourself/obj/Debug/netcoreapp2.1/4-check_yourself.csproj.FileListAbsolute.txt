@@ -1,0 +1,11 @@
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-delegates_events\4-check_yourself\bin\Debug\netcoreapp2.1\4-check_yourself.deps.json
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-delegates_events\4-check_yourself\bin\Debug\netcoreapp2.1\4-check_yourself.runtimeconfig.json
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-delegates_events\4-check_yourself\bin\Debug\netcoreapp2.1\4-check_yourself.runtimeconfig.dev.json
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-delegates_events\4-check_yourself\bin\Debug\netcoreapp2.1\4-check_yourself.dll
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-delegates_events\4-check_yourself\bin\Debug\netcoreapp2.1\4-check_yourself.pdb
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-delegates_events\4-check_yourself\obj\Debug\netcoreapp2.1\4-check_yourself.csprojAssemblyReference.cache
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-delegates_events\4-check_yourself\obj\Debug\netcoreapp2.1\4-check_yourself.csproj.CoreCompileInputs.cache
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-delegates_events\4-check_yourself\obj\Debug\netcoreapp2.1\4-check_yourself.AssemblyInfoInputs.cache
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-delegates_events\4-check_yourself\obj\Debug\netcoreapp2.1\4-check_yourself.AssemblyInfo.cs
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-delegates_events\4-check_yourself\obj\Debug\netcoreapp2.1\4-check_yourself.dll
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-delegates_events\4-check_yourself\obj\Debug\netcoreapp2.1\4-check_yourself.pdb
