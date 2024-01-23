@@ -12,7 +12,7 @@ class Queue<T>
     /// <summary> creation of node </summary>
     public class Node
     {
-        private T value = null;
+        private T value;
         public Node next = null;
 
         public Node(T stri)
@@ -26,9 +26,13 @@ class Queue<T>
     {
         Node newNode = new Node(value);
         if (head == null)
+        {
             head = newNode;
+            tail = newNode;
+        }
 
         else
+            tail = newNode;
             tail.next = newNode;
         
         count++;
