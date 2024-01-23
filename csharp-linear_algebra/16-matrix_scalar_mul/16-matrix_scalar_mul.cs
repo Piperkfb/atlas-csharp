@@ -20,11 +20,11 @@ class MatrixMath
         }
         else if (matrix.GetLength(0) == 3 && matrix.GetLength(1) == 3 && matrix.GetLength(2) == 3)
         {
-            double[,] res = {{0, 0}, {0, 0}, {0, 0}};
+            double[,] res = {{0, 0, 0}, {0, 0, 0}, {0, 0, 0}};
             for (int i = 0; i <= 2; i++)
                 for (int y = 0; y <= 2; y++)
                 {
-                    res[i, y] = (matrix1[i, y] + matrix2[i, y]);
+                    res[i, y] = (matrix[i, y] * scalar);
                 }
             return res;
         }
