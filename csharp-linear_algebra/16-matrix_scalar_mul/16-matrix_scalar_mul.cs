@@ -17,7 +17,7 @@ class MatrixMath
             for (int i = 0; i <= 1; i++)
                 for (int y = 0; y <= 1; y++)
                 {
-                    res[i, y] = (matrix1[i, y] * scalar);
+                    res[i, y] = (matrix[i, y] * scalar);
                 }
             return res;
         }

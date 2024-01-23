@@ -22,8 +22,8 @@ class MatrixMath
                 }
             return res;
         }
-        else if (matrix1.GetLength(0) == 3 && matrix1.GetLength(1) == 3 && matrix1.GetLength(2) == 3 &&
-        matrix2.GetLength(0) == 3 && matrix2.GetLength(1) == 3 && matrix2.GetLength(2) == 3)
+        else if (matrix1.GetLength(0) == 3 && matrix1.GetLength(1) == 3 &&
+        matrix2.GetLength(0) == 3 && matrix2.GetLength(1) == 3)
         {
             double[,] res = {{0, 0, 0}, {0, 0, 0}, {0, 0, 0}};
             for (int i = 0; i <= 2; i++)
