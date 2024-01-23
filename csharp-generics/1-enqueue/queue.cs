@@ -1,7 +1,7 @@
 ﻿using System;
 
 /// <summary>
-/// class Queue<t>
+/// class Queue t
 /// </summary>
 class Queue<T>
 {
@@ -15,12 +15,14 @@ class Queue<T>
         private T value = null;
         public Node next = null;
 
-        public Node(T thing)
-            value = thing;
+        public Node(T stri)
+        {
+            value = stri;
+        }
 
     }
 
-    public void Enqueue()
+    public void Enqueue(T value)
     {
         Node newNode = new Node(value);
         if (head == null)
@@ -35,9 +37,13 @@ class Queue<T>
 
     /// <summary> Check type of T </summary>
     public Type CheckType()
+    {
         return typeof(T);
+    }
 
     /// <summary> returns count </summary>
     public int Count()
+    {
         return count;
+    }
 }
