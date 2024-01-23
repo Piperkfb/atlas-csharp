@@ -123,8 +123,8 @@ class Queue<T>
                     i++;
                 }
             }
+            return s;
         }
-        return s;
     }
 
 
