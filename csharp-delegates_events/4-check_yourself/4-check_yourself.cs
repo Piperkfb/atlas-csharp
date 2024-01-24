@@ -8,6 +8,7 @@ public class Player
     private string name;
     private float maxHp;
     private float hp;
+    private string status;
 
     /// <summary>A player's class</summary>
 
@@ -22,7 +23,8 @@ public class Player
         this.maxHp = maxHp;
         this.name = name;
         this.hp = maxHp;
-        
+        this.status = $"{this.name} is ready to go!";
+        HPCheck += CheckStatus;
     }
 
     delegate void CalculateHealth(float health);
@@ -71,6 +73,7 @@ public class Player
         {
             this.hp = newHp;
         }
+        HPCheck(this, new CurrentHPArgs(this.hp));
     }
     
     /// <summary>Modifies damage output</summary>
@@ -85,7 +88,26 @@ public class Player
             return (baseValue * 1.5f);
         return baseValue;
     }
+
+    
+    private void CheckStatus(object sender, CurrentHPArgs e)
+    {
+        if (e.currentHp == this.maxHp)
+            this.status = $"{this.name} is in perfect health!";
+        else if (e.currentHp >= (this.maxHp * 0.5f) && e.currentHp < this.maxHp)
+            this.status = $"{this.name} is doing well!";
+        else if (e.currentHp >= (this.maxHp * 0.25f) && e.currentHp < (this.maxHp * 0.5f))
+            this.status = $"{this.name} isn't doing too great...";
+        else if (e.currentHp > 0f && e.currentHp < (this.maxHp * 0.5f))
+            this.status = $"{this.name} needs help!";
+        else
+            this.status = $"{this.name} is knocked out!";
+
+        Console.WriteLine(this.status);
+
+    }
     /// <summary>prints health</summary>
+    public event EventHandler<CurrentHPArgs> HPCheck;
     public void PrintHealth()
     {
         Console.WriteLine("{0} has {1} / {2} health", this.name, this.hp, this.maxHp);
@@ -94,7 +116,7 @@ public class Player
 
 class CurrentHPArgs : EventArgs
 {
-    float currentHp;
+    private float currentHp;
     public CurrentHPArgs(float newHp)
     {
         this.currentHp = newHp;
