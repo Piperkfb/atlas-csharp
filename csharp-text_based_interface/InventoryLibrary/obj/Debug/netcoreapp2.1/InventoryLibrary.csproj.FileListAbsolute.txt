@@ -1,0 +1,11 @@
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-text_based_interface\InventoryLibrary\bin\Debug\netcoreapp2.1\InventoryLibrary.deps.json
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-text_based_interface\InventoryLibrary\bin\Debug\netcoreapp2.1\InventoryLibrary.runtimeconfig.json
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-text_based_interface\InventoryLibrary\bin\Debug\netcoreapp2.1\InventoryLibrary.runtimeconfig.dev.json
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-text_based_interface\InventoryLibrary\bin\Debug\netcoreapp2.1\InventoryLibrary.dll
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-text_based_interface\InventoryLibrary\bin\Debug\netcoreapp2.1\InventoryLibrary.pdb
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\netcoreapp2.1\InventoryLibrary.csprojAssemblyReference.cache
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\netcoreapp2.1\InventoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\netcoreapp2.1\InventoryLibrary.AssemblyInfoInputs.cache
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\netcoreapp2.1\InventoryLibrary.AssemblyInfo.cs
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\netcoreapp2.1\InventoryLibrary.dll
+C:\Users\piper\Desktop\Coding Work VS\atlas-csharp\csharp-text_based_interface\InventoryLibrary\obj\Debug\netcoreapp2.1\InventoryLibrary.pdb
