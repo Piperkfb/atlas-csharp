@@ -9,6 +9,7 @@ public class Player
     private float maxHp;
     private float hp;
     private string status;
+    private EventHandler<CurrentHPArgs> HPCheck;
 
     /// <summary>A player's class</summary>
 
@@ -73,7 +74,7 @@ public class Player
         {
             this.hp = newHp;
         }
-        HPCheck(this, new CurrentHPArgs(this.hp));
+        HPCheck(this, new CurrentHPArgs(hp));
     }
     
     /// <summary>Modifies damage output</summary>
@@ -100,14 +101,13 @@ public class Player
             this.status = $"{this.name} isn't doing too great...";
         else if (e.currentHp > 0f && e.currentHp < (this.maxHp * 0.5f))
             this.status = $"{this.name} needs help!";
-        else
+        else if (e.currentHp == 0)
             this.status = $"{this.name} is knocked out!";
 
         Console.WriteLine(this.status);
 
     }
     /// <summary>prints health</summary>
-    public event EventHandler<CurrentHPArgs> HPCheck;
     public void PrintHealth()
     {
         Console.WriteLine("{0} has {1} / {2} health", this.name, this.hp, this.maxHp);
@@ -116,7 +116,7 @@ public class Player
 
 class CurrentHPArgs : EventArgs
 {
-    private float currentHp;
+    public readonly float currentHp;
     public CurrentHPArgs(float newHp)
     {
         this.currentHp = newHp;
